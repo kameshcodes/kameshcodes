@@ -24,7 +24,7 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 
 **Programming Languages**: Python, R, SQL and C
 
-**Data Mining and Deep Learning Frameworks:** Scikit-learn, XGBoost, LightGBM, Tensorflow-Keras, AutoML and many more
+**Data Mining and Deep Learning Frameworks:** Scikit-learn, Tensorflow-Keras, AutoML, XGBoost, LightGBM, and many more
 
 **Softwares** : Jupyter, MYSQL, Tableau, Git, VS Code and few more
 ## 🔗 Connect with Me
