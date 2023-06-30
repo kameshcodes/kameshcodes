@@ -14,8 +14,7 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 ## 🛠 Skills
 **Data Science** Exploratory Data Analysis, Machine Learning, Deep Learning and Dashboarding
 
-**Data Wrangling and Vizualisation Libaries :** Pandas, NumPy
-Data Visualization: Matplotlib, Seaborn, etc.
+**Data Wrangling and Vizualisation Libaries :** Pandas, NumPy, Matplotlib, Seaborn, etc.
 
 **Statistical Modeling:** Regression, Classification, Time Series Analysis
 
