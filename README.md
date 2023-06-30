@@ -1,5 +1,5 @@
-# Kamesh Dubey  
-<div align = "right"> [![portfolio](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1OFExsKARg2z_nDt7z45jtgP-WBwFnbJY/view?pli=1) </div>
+# Kamesh Dubey <div align="right">[![portfolio](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1OFExsKARg2z_nDt7z45jtgP-WBwFnbJY/view?pli=1)</div>
+
 
 ## 🚀 About Me 
 Greetings, and welcome to my GitHub profile!
