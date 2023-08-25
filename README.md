@@ -1,4 +1,4 @@
-# Kamesh Dubey <div align="right">[![portfolio](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://drive.google.com/file/d/1ODypxtIt_rYMeRAkrccn_I5puHK3O2mI/view?usp=sharing])</div>
+# Kamesh Dubey [![portfolio](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1ODypxtIt_rYMeRAkrccn_I5puHK3O2mI/view?usp=sharing)
 
 
 ## 🚀 About Me 
