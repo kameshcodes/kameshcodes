@@ -6,7 +6,7 @@ Greetings, and welcome to my GitHub profile!
 
 I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics and Informatics at the prestigious Indian Institute of Technology Bombay. I am extremely passionate about the power of data to drive insights and create positive change. My goal is to explore the vast opportunities available in the field of data science and analytics and contribute to the advancement of this exciting field. 
 
-🧠 I'm currently learning Convolutional Neural Network
+🧠 I'm currently learning Computer Vision
 
 
 
