@@ -33,24 +33,21 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 
 **Software and Tools**: AWS, Streamlit, Docker, Jupyter, MYSQL, Tableau, Git, VS Code, and a few more
 
+## 📂 Projects
 
-=## 📂 Projects
-
-<table width="100%">
+<table>
   <tr>
-    <!-- Left Column -->
-    <td width="50%" valign="top">
+    <td>
       <h4>1. <a href="https://github.com/kameshcodes/reviews-sentiment-analysis-project">Review Sentiment Analysis Project</a></h4>
       <img src="https://github.com/kameshcodes/reviews-sentiment-analysis-project/blob/dev/imgs/app-snapshot.png" alt="Sentiment Analysis on IMDb Reviews" width="300px" height="200px">
     </td>
-
-    <!-- Right Column -->
-    <td width="50%" valign="top">
+    <td>
       <h4>2. <a href="https://github.com/kameshcodes/SI-505-Multivariate-Analysis-Course-Project">Multivariate Analysis Course Project</a></h4>
       <img src="https://github.com/kameshcodes/SI-505-Multivariate-Analysis-Course-Project/blob/master/imgs/biplot.png" alt="Multivariate Analysis Course Project" width="300px" height="200px">
     </td>
   </tr>
 </table>
+
 
 
 ## 🔗 Connect with Me
