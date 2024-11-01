@@ -1,7 +1,7 @@
 # Kamesh Dubey
 <div style="text-align: right;">
-    <a href="https://drive.google.com/file/d/1ODypxtIt_rYMeRAkrccn_I5puHK3O2mI/view?usp=sharing" target="_blank">
-        <img src="https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio">
+    <a href="https://linktr.ee/kameshdubey" target="_blank">
+        <img src="![image](https://github.com/user-attachments/assets/f120f73f-add0-4333-8c7c-c504e9b02221)" alt="link-in-bio">
     </a>
 </div>
 
@@ -53,7 +53,6 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 ## 🔗 Connect with Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kameshcodes/)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 If you have any inquiries or opportunities. Please feel free to contact me via email at kameshcodes@outlook.com 
 
