@@ -1,6 +1,8 @@
 # Kamesh Dubey
-<div align="right">
-    [![portfolio](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1ODypxtIt_rYMeRAkrccn_I5puHK3O2mI/view?usp=sharing)
+<div style="text-align: right;">
+    <a href="https://drive.google.com/file/d/1ODypxtIt_rYMeRAkrccn_I5puHK3O2mI/view?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio">
+    </a>
 </div>
 
 
@@ -38,7 +40,7 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 ![Sentiment Analysis on IMDb Reviews](https://github.com/kameshcodes/reviews-sentiment-analysis-project/blob/dev/imgs/app-snapshot.png)
 
 #### 2. [Multivariate Analysis Course Project](https://github.com/kameshcodes/SI-505-Multivariate-Analysis-Course-Project)
-![Multivariate Analysis Course Project](https://github.com/kameshcodes/SI-505-Multivariate-Analysis-Course-Project/blob/main/imgs/course-project-snapshot.png)
+![Multivariate Analysis Course Project](https://github.com/kameshcodes/SI-505-Multivariate-Analysis-Course-Project/blob/master/imgs/biplot.png)
 
 
 ## 🔗 Connect with Me
