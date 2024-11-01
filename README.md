@@ -39,11 +39,11 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
   <tr>
     <td>
       <h4>1. <a href="https://github.com/kameshcodes/reviews-sentiment-analysis-project">Review Sentiment Analysis Project</a></h4>
-      <img src="https://github.com/kameshcodes/reviews-sentiment-analysis-project/blob/dev/imgs/app-snapshot.png" alt="Sentiment Analysis on IMDb Reviews" width="300px" height="200px">
+      <img src="https://github.com/kameshcodes/reviews-sentiment-analysis-project/blob/dev/imgs/app-snapshot.png" alt="Sentiment Analysis on IMDb Reviews" width="500px" height="350px">
     </td>
     <td>
       <h4>2. <a href="https://github.com/kameshcodes/SI-505-Multivariate-Analysis-Course-Project">Multivariate Analysis Course Project</a></h4>
-      <img src="https://github.com/kameshcodes/SI-505-Multivariate-Analysis-Course-Project/blob/master/imgs/biplot.png" alt="Multivariate Analysis Course Project" width="300px" height="200px">
+      <img src="https://github.com/kameshcodes/SI-505-Multivariate-Analysis-Course-Project/blob/master/imgs/biplot.png" alt="Multivariate Analysis Course Project" width="500px" height="350px">
     </td>
   </tr>
 </table>
