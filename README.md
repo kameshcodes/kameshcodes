@@ -7,6 +7,7 @@
 
 
 ## 🚀 About Me 
+
 Greetings, and welcome to my GitHub profile!
 
 I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics and Informatics at the prestigious Indian Institute of Technology Bombay. I am extremely passionate about the power of data to drive insights and create positive change. My goal is to explore the vast opportunities available in the field of data science and analytics and contribute to the advancement of this exciting field. 
@@ -14,7 +15,8 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 🧠 I'm currently learning Generative-AI and Deployment of ML Models
 
 
-## ![image](https://github.com/user-attachments/assets/e6778f21-6052-443b-9e0f-5e8c5785bde4) Key Projects
+## <img src="https://github.com/user-attachments/assets/e6778f21-6052-443b-9e0f-5e8c5785bde4" alt="Key Projects" width="50" height="50"> Key Projects
+
 <table>
   <tr>
     <td>
@@ -39,7 +41,7 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 
 **Core Subjects**: Applied Statistics and Mathematics
 
-## ![image](https://github.com/user-attachments/assets/e3d579c7-ec74-4671-a7f9-e0fb250c9566) Tech Stack
+## <img src="https://github.com/user-attachments/assets/e3d579c7-ec74-4671-a7f9-e0fb250c9566" alt="Tech Stack" width="50" height="50"> Tech Stack
 
 **Programming Languages**: Python, R, SQL and C
 
