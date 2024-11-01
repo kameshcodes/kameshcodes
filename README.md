@@ -1,4 +1,4 @@
-<table style="width: 100%;" border="0">
+<table style="width: 100%; border: none;">
   <tr>
     <td align="left" style="width: 90%;">
       <a href="https://linktr.ee/kameshdubey" target="_blank" style="text-decoration: none;">
@@ -12,6 +12,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
