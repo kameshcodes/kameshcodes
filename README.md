@@ -1,7 +1,17 @@
-<a href="https://linktr.ee/kameshdubey" target="_blank" style="text-decoration: none;">
-  <h1 style="display: inline; font-size: 2em;">Kamesh Dubey</h1>
-  <img src="https://cdn-icons-png.flaticon.com/512/5720/5720543.png" alt="link-in-bio" width="20" height="20" style="margin-left: 10px; vertical-align: middle;">
-</a>
+<table style="width: 100%;">
+  <tr>
+    <td align="left">
+      <a href="https://linktr.ee/kameshdubey" target="_blank" style="text-decoration: none;">
+        <h1 style="display: inline; font-size: 2em;">Kamesh Dubey</h1>
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://linktr.ee/kameshdubey" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/5720/5720543.png" alt="link-in-bio" width="20" height="20" style="vertical-align: middle;">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
