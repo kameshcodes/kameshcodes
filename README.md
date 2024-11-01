@@ -30,6 +30,17 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 **Data Mining and Deep Learning Frameworks:** Scikit-learn, Tensorflow-Keras, AutoML, XGBoost, LightGBM, and many more
 
 **Software and Tools**: AWS, Streamlit, Docker, Jupyter, MYSQL, Tableau, Git, VS Code, and a few more
+
+
+## 📂 Projects
+
+#### 1. [Review Sentiment Analysis Project](https://github.com/kameshcodes/reviews-sentiment-analysis-project)
+![Sentiment Analysis on IMDb Reviews](https://github.com/kameshcodes/reviews-sentiment-analysis-project/blob/dev/imgs/app-snapshot.png)
+
+#### 2. [Multivariate Analysis Course Project](https://github.com/kameshcodes/SI-505-Multivariate-Analysis-Course-Project)
+![Multivariate Analysis Course Project](https://github.com/kameshcodes/SI-505-Multivariate-Analysis-Course-Project/blob/main/imgs/course-project-snapshot.png)
+
+
 ## 🔗 Connect with Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikameshdubey/)
 
