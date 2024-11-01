@@ -1,7 +1,5 @@
-<a href="https://linktr.ee/kameshdubey" target="_blank" style="text-decoration: none;">
-  <h1 style="display: inline;">Kamesh Dubey</h1>
-  <img src="https://cdn-icons-png.flaticon.com/512/5720/5720543.png" alt="link-in-bio" width="20" height="20" style="margin-left: 10px; vertical-align: middle;">
-</a>
+# Kamesh Dubey <a href="https://linktr.ee/kameshdubey" target="_blank" style="float"> <img src="https://cdn-icons-png.flaticon.com/512/5720/5720543.png" alt="link-in-bio" width="20" height="20"></a>
+
 
 
 
