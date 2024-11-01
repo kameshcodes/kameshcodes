@@ -1,9 +1,11 @@
 # Kamesh Dubey
+
 <div style="text-align: right;">
     <a href="https://linktr.ee/kameshdubey" target="_blank">
-        <img src="![image](https://github.com/user-attachments/assets/f120f73f-add0-4333-8c7c-c504e9b02221)" alt="link-in-bio">
+        <img src="https://github.com/user-attachments/assets/f120f73f-add0-4333-8c7c-c504e9b02221" alt="link-in-bio" width="100" height="100">
     </a>
 </div>
+
 
 
 ## 🚀 About Me 
@@ -15,7 +17,7 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 🧠 I'm currently learning Generative-AI and Deployment of ML Models
 
 
-## <img src="https://github.com/user-attachments/assets/e6778f21-6052-443b-9e0f-5e8c5785bde4" alt="Key Projects" width="50" height="50"> Key Projects
+## <img src="https://github.com/user-attachments/assets/e6778f21-6052-443b-9e0f-5e8c5785bde4" alt="Key Projects" width="30" height="30"> Key Projects
 
 <table>
   <tr>
@@ -41,7 +43,7 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 
 **Core Subjects**: Applied Statistics and Mathematics
 
-## <img src="https://github.com/user-attachments/assets/e3d579c7-ec74-4671-a7f9-e0fb250c9566" alt="Tech Stack" width="50" height="50"> Tech Stack
+## <img src="https://github.com/user-attachments/assets/e3d579c7-ec74-4671-a7f9-e0fb250c9566" alt="Tech Stack" width="30" height="30"> Tech Stack
 
 **Programming Languages**: Python, R, SQL and C
 
