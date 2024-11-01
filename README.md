@@ -1,4 +1,4 @@
-# Kamesh Dubey <a href="https://linktr.ee/kameshdubey" target="_blank" style="float: right;"><img src="https://github.com/user-attachments/assets/f120f73f-add0-4333-8c7c-c504e9b02221" alt="link-in-bio" width="50" height="50"></a>
+# Kamesh Dubey <a href="https://linktr.ee/kameshdubey" target="_blank" style="float: right;"><img src="https://github.com/user-attachments/assets/f120f73f-add0-4333-8c7c-c504e9b02221" alt="link-in-bio" width="40" height="40"></a>
 
 
 
