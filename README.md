@@ -12,7 +12,6 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 🧠 I'm currently learning Generative-AI and Deployment of ML Models
 
 <br>
-<br>
 
 ## <img src="https://github.com/user-attachments/assets/e6778f21-6052-443b-9e0f-5e8c5785bde4" alt="Key Projects" width="30" height="30"> Key Projects
 
@@ -29,7 +28,6 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
   </tr>
 </table>
 
-<br>
 
 ## 🛠 Skills
 **Data Science** Exploratory Data Analysis, Machine Learning, Deep Learning and Time Series Analysis
@@ -38,7 +36,8 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 
 **Core Subjects**: Applied Statistics and Mathematics
 
-<br>
+
+
 
 ## <img src="https://github.com/user-attachments/assets/e3d579c7-ec74-4671-a7f9-e0fb250c9566" alt="Tech Stack" width="30" height="30"> Tech Stack
 
@@ -48,7 +47,7 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 
 **Software and Tools**: AWS, Streamlit, Docker, MLFLow, DVC, Tableau, Git, VS Code, and a few more
 
-<br>
+
 
 ## 🔗 Connect with Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kameshcodes/)
