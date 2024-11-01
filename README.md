@@ -11,30 +11,11 @@ Greetings, and welcome to my GitHub profile!
 
 I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics and Informatics at the prestigious Indian Institute of Technology Bombay. I am extremely passionate about the power of data to drive insights and create positive change. My goal is to explore the vast opportunities available in the field of data science and analytics and contribute to the advancement of this exciting field. 
 
-🧠 I'm currently learning Computer Vision
+🧠 I'm currently learning Generative-AI and Deployment of ML Models
 
 
-
-
-## 🛠 Skills
-**Data Science** Exploratory Data Analysis, Machine Learning, Deep Learning and Dashboarding
-
-**Data Wrangling and Visualisation Libraries:** Pandas, NumPy, Matplotlib, Seaborn, etc.
-
-**Statistical Modeling:** Regression, Classification, Time Series Analysis
-
-**Core Subjects**: Applied Statistics and Mathematics
-
-## Tech Stack
-
-**Programming Languages**: Python, R, SQL and C
-
-**Data Mining and Deep Learning Frameworks:** Scikit-learn, Tensorflow-Keras, AutoML, XGBoost, LightGBM, and many more
-
-**Software and Tools**: AWS, Streamlit, Docker, Jupyter, MYSQL, Tableau, Git, VS Code, and a few more
-
-## 📂 Projects
-
+## ![image](https://github.com/user-attachments/assets/e6778f21-6052-443b-9e0f-5e8c5785bde4)
+ Key Projects
 <table>
   <tr>
     <td>
@@ -50,12 +31,31 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 
 
 
+## 🛠 Skills
+**Data Science** Exploratory Data Analysis, Machine Learning, Deep Learning and Dashboarding
+
+**Data Wrangling and Visualisation Libraries:** Pandas, NumPy, Matplotlib, Plotly etc.
+
+**Statistical Modeling:** Regression, Classification, Time Series Analysis
+
+**Core Subjects**: Applied Statistics and Mathematics
+
+## ![image](https://github.com/user-attachments/assets/e3d579c7-ec74-4671-a7f9-e0fb250c9566) Tech Stack
+
+**Programming Languages**: Python, R, SQL and C
+
+**Data Mining and Deep Learning Frameworks:** Scikit-learn, PyTorch, XGBoost, Statmodels, etc.
+
+**Software and Tools**: AWS, Streamlit, Docker, MLFLow, DVC, Tableau, Git, VS Code, and a few more
+
+
+
 ## 🔗 Connect with Me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikameshdubey/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kameshcodes/)
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-If you have any inquiries or opportunities. Please feel free to contact me via email at kamesh.iitbombay@gmail.com 
+If you have any inquiries or opportunities. Please feel free to contact me via email at kameshcodes@outlook.com 
 
 
 
