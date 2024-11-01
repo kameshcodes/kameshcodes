@@ -14,8 +14,7 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 🧠 I'm currently learning Generative-AI and Deployment of ML Models
 
 
-## ![image](https://github.com/user-attachments/assets/e6778f21-6052-443b-9e0f-5e8c5785bde4)
- Key Projects
+## ![image](https://github.com/user-attachments/assets/e6778f21-6052-443b-9e0f-5e8c5785bde4) Key Projects
 <table>
   <tr>
     <td>
