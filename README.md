@@ -13,7 +13,7 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 
 <br>
 
-## <img src="https://github.com/user-attachments/assets/e6778f21-6052-443b-9e0f-5e8c5785bde4" alt="Projects" width="30" height="30"> Key Projects
+## <img src="https://github.com/user-attachments/assets/e6778f21-6052-443b-9e0f-5e8c5785bde4" alt="Projects" width="30" height="30"> Projects
 
 <table>
   <tr>
