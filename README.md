@@ -21,7 +21,7 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
       <a href="https://github.com/kameshcodes/reviews-sentiment-analysis-project">
         <img src="https://github.com/kameshcodes/reviews-sentiment-analysis-project/blob/dev/imgs/app-snapshot-closeup.png" alt="Sentiment Analysis on IMDb Reviews" width="500px" height="330px">
       </a>
-      <h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/kameshcodes/reviews-sentiment-analysis-project">Review Sentiment Analysis Project</a></h3>
+      <h3>&nbsp;&nbsp<a href="https://github.com/kameshcodes/reviews-sentiment-analysis-project">End-to-End Review Sentiment Analysis Project</a></h3>
     </td>
     <td align="center">
       <a href="https://github.com/kameshcodes/SI-505-Multivariate-Analysis-Course-Project">
