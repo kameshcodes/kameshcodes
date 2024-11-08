@@ -1,4 +1,4 @@
-# [Kamesh Dubey](https://linktr.ee/kameshdubey)
+# [Kamesh Dubey](https://kameshcodes.github.io/portfolio/)
 
 
 
@@ -60,6 +60,9 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 
 ## 🔗 Connect with Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kameshcodes/)
+[![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://kameshcodes.github.io/portfolio/)
+
+
 
 
 If you have any inquiries or opportunities. Please feel free to contact me via email at kamesh.iitbombay@gmail.com 
