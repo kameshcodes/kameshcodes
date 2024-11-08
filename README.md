@@ -62,7 +62,7 @@ I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kameshcodes/)
 
 
-If you have any inquiries or opportunities. Please feel free to contact me via email at kameshcodes@outlook.com 
+If you have any inquiries or opportunities. Please feel free to contact me via email at kamesh.iitbombay@gmail.com 
 
 
 
