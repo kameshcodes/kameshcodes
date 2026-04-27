@@ -5,11 +5,10 @@
 
 ## 🚀 About Me 
 
-Greetings, and welcome to my GitHub profile!
+Hi, I’m Kamesh Dubey, an Associate Consultant at KPMG and a postgraduate in Applied Statistics and Informatics from IIT Bombay. I work at the intersection of data science and risk, with a strong interest in quantitative modelling — particularly in credit and market risk.
 
-I am Kamesh Dubey, a second-year student pursuing an MSc. in Applied Statistics and Informatics at the prestigious Indian Institute of Technology Bombay. I am extremely passionate about the power of data to drive insights and create positive change. My goal is to explore the vast opportunities available in the field of data science and analytics and contribute to the advancement of this exciting field. 
+🧠 Currently, I’m focused on strengthening my skills in Generative AI and Quantitative Finance
 
-🧠 I'm currently learning Generative-AI and Deployment of ML Models
 
 <br>
 
