@@ -49,11 +49,11 @@ Hi, I’m Kamesh Dubey, an Associate Consultant at KPMG and a postgraduate in Ap
 
 ## <img src="https://github.com/user-attachments/assets/e3d579c7-ec74-4671-a7f9-e0fb250c9566" alt="Tech Stack" width="30" height="30"> Tech Stack
 
-**Programming Languages**: Python, R, SQL and C
+**Programming Languages**: Python, R, SQL 
 
 **Data Mining and Deep Learning Frameworks:** Scikit-learn, PyTorch, XGBoost, Statmodels, etc.
 
-**Software and Tools**: AWS, Streamlit, Docker, MLFLow, DVC, Tableau, Git, VS Code, and a few more
+**Software and Tools**: AWS, Docker, Git, VS Code, and a few more
 
 
 
