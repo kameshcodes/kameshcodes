@@ -5,7 +5,7 @@
 
 ## 🚀 About Me 
 
-Hi, I’m Kamesh Dubey, an Associate Consultant at KPMG and a postgraduate in Applied Statistics and Informatics from IIT Bombay. I work at the intersection of data science and risk, with a strong interest in quantitative modelling — particularly in credit and market risk.
+Hi, I’m Kamesh Dubey, an analyst at Moodys and a postgraduate in Applied Statistics and Informatics from IIT Bombay. I work at the intersection of data science and risk, with a strong interest in quantitative modelling — particularly in credit and market risk.
 
 🧠 Currently, I’m focused on strengthening my skills in Generative AI and Quantitative Finance
 
